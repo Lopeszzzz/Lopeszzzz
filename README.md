@@ -2,7 +2,7 @@
 
 
 - 👨🏾‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas da **Faculdade de Tecnologia (FATEC)**.
-- 👀 Estou à procura do meu primeiro estágio na área para dar o "pontapé" inicial na minha carreira como Desenvolvedor.
+- 👀 Estou à procura do meu primeiro estágio na área para dar o "pontapé" inicial na minha carreira como Desenvolvedor, principalmente na área de FrontEnd.
 - 👨🏾‍🦱 Meus pronomes são: **Ele/Dele**.
 
 <div align="center">
