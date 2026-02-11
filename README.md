@@ -2,7 +2,7 @@
 
 ### Sobre mim:
  - 👨🏾‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas da **Faculdade de Tecnologia (FATEC)**.
- - 👀 Estou à procura do meu primeiro estágio na área para dar o "pontapé" inicial na minha carreira como **Desenvolvedor**, principalmente na área de **FrontEnd**.
+ - 👀 Estou à procura do meu primeiro estágio na área para dar o "pontapé" inicial na minha carreira como **Desenvolvedor**, principalmente na área de **Frontend**.
  - 🎭 No meu tempo livre, gosto de **assistir a filmes e séries, jogar videogame** e **ler livros.**
 ##
  ### Tecnologias e Ferramentas que eu utilizo:
