@@ -1,11 +1,11 @@
 ## Olá, sou o Caio Lopes!
 
-#### Sobre mim:
+### Sobre mim:
  - 👨🏾‍💻 Sou estudante de Análise e Desenvolvimento de Sistemas da **Faculdade de Tecnologia (FATEC)**.
  - 👀 Estou à procura do meu primeiro estágio na área para dar o "pontapé" inicial na minha carreira como Desenvolvedor, principalmente na área de FrontEnd.
  - 🎭 No meu tempo livre, gosto de **assistir filmes e séries, jogar video-game** e **ler livros.**
 ##
- #### Tecnologias e Ferramentas que eu utilizo:
+ ### Tecnologias e Ferramentas que eu utilizo:
 <div style="display: inline_block" >
   <img align="center" alt="Lopeszzzz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lopeszzzz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -14,7 +14,7 @@
   <img align="center" alt="Lopeszzzz-VSCode" heigt="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
   
 ##
-#### Entre em contato:
+### Entre em contato:
   <div>
     <a href="https://www.linkedin.com/in/caiohenrique-lopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
   </div>
